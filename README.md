@@ -139,22 +139,40 @@ Ini merupakan kode untuk sistem mencari nama yang dimasukkan dengan sesuai.
 <img width="557" height="217" alt="image" src="https://github.com/user-attachments/assets/748de609-71d8-4b86-aeed-79b68d44bfa0" />
 
 
+- Tampilan Awal dari sistem.
+
+
 <img width="398" height="183" alt="image" src="https://github.com/user-attachments/assets/59927317-4590-4ce5-a6c1-ac14415cf831" />
+
+
+- Tampilan ketika user memilih pilihan satu, dan memasukan data pemain.
 
 
 <img width="846" height="95" alt="image" src="https://github.com/user-attachments/assets/51700331-783d-4976-b7f7-1beefc7b72b0" />
 
 
+- Selanjutnya ini adalah tampilan saat user ingin melihat daftar pemain yang ada.
+
+
 <img width="526" height="210" alt="image" src="https://github.com/user-attachments/assets/790eaade-f462-4942-b7d2-ea16f44822d0" />
+
+
+- Tampilan saat user melakukan update.
 
 
 <img width="858" height="369" alt="image" src="https://github.com/user-attachments/assets/b79f6c0b-f9a6-4089-acd5-c8ea3b3db6b3" />
 
 
+- Tampilan saat menghapus pemain.
+
+
 <img width="846" height="127" alt="image" src="https://github.com/user-attachments/assets/91f4371f-464e-4bae-b471-b7edbe350509" />
+
+
+- Tampilan saat user mencari pemain yang ingin dicari.
 
 
 <img width="800" height="122" alt="image" src="https://github.com/user-attachments/assets/9e2750be-7044-4a45-a596-9465cf0a0c8f" />
 
 
-
+- Tampilan saat user keluar program.
