@@ -99,19 +99,38 @@ Kode pada gambar ini adalah lanjutan proses input data pemain untuk atribut usia
 <img width="717" height="371" alt="image" src="https://github.com/user-attachments/assets/12b6ed32-ebf1-4495-b43b-d87c290182a8" />
 
 
+Kode ini merupakan kode untuk menampilkan pemain.
+
+
 <img width="833" height="445" alt="image" src="https://github.com/user-attachments/assets/f7bd551a-e338-4f4b-9c72-ae7bd04f2827" />
+
+
+Kode ini digunakan update pemain jika saat melakukan penginputan terdapat kesalahan.
 
 
 <img width="1053" height="712" alt="image" src="https://github.com/user-attachments/assets/91dc1b1f-0823-419f-8990-026b8ae145c4" />
 
 
+Sistem akan otomatis mencari nama yang diinput.
+Jika nama yang dimasukkan salah maka tidak dapat melakukan update.
+
+
 <img width="848" height="460" alt="image" src="https://github.com/user-attachments/assets/391ab7ef-5f98-4182-a569-7850448e7334" />
+
+
+Kode ini digunakan untuk menghapus pemain yang mungkin sudah pensiun atau sudah keluar dari liga inggris.
 
 
 <img width="998" height="209" alt="image" src="https://github.com/user-attachments/assets/efe71cd3-8607-4e4b-8ee6-74e5f4fb02de" />
 
 
+Ini merupakan lanjutan dari kode menghapus pemain.
+
+
 <img width="863" height="578" alt="image" src="https://github.com/user-attachments/assets/4daf54e5-b212-4599-bb76-2b72af9452c6" />
+
+
+Ini merupakan kode untuk sistem mencari nama yang dimasukkan dengan sesuai.
 
 
 # Output
